@@ -87,7 +87,7 @@ const Location = () => {
         </div>
         <div className="banner-container">
                 <div className="banner">
-                <p>HOW TO GET HERE?</p>
+                <h2>WEDDING OFFER BY SHOFEUR</h2>
                 </div>
             </div>
             <div className="main-section">
