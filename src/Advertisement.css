@@ -1,0 +1,33 @@
+/* Advertisement.css */
+
+.advertisement {
+    padding: 20px;
+    text-align: center;
+    position: relative;
+  }
+  
+  .fireworks {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .moving-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+    font-size: 32px;
+    color: black;
+    animation: moveText 10s linear infinite;
+  }
+  
+  @keyframes moveText {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
