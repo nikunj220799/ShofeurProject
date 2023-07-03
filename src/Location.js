@@ -67,6 +67,8 @@ const Location = () => {
       <main>
         <Advertisement />
         <br />
+        <br></br>
+        <div className="mission"><p>"Our mission is to redefine luxury transportation for exceptional events. We are dedicated to providing unparalleled chauffeur services, specializing in weddings and other prestigious occasions. With our fleet of luxury vehicles and professional chauffeurs, we strive to create unforgettable experiences by delivering unrivaled elegance, comfort, and reliability. Our commitment to excellence and attention to detail ensures that every moment spent with us is a reflection of the sophistication and opulence our clients deserve."</p></div>
         <div className="main-section">
           <div className="image-container">
             <img

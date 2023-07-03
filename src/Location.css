@@ -1,4 +1,3 @@
-/* Location.css */
 
 .main-section {
     display: flex;
@@ -190,4 +189,14 @@
     -webkit-text-fill-color: transparent;
   }
   
- 
+  .mission {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .mission p {
+    font-style: italic;
+    color: #333;
+    font-size: 18px;
+  }
